@@ -1,6 +1,6 @@
 # Hey 👋 What's up?
 
-My name is Juan Pablo Morales Tames and I'm a Full Stack Developer from Colombia 🇨🇴 ☕.
+My name is Juan Pablo Morales Tames and I'm a Full Stack Developer from Colombia ☕.
 
 ## 💬 About me
 
